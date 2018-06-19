@@ -1,0 +1,27 @@
+
+body
+{
+	font-size: 22px;	
+}
+
+.contacts
+{
+	background: #e8e8e8;
+	font-weight:bold;
+}
+label,input[type='submit']
+{
+	display:inline-block;
+	margin:20px;
+}
+input[type='submit']
+{
+	background: red;
+	color:white;
+	border :0;
+	padding:10px 20px;
+}
+.muted
+{
+	font-weight:light;
+}
